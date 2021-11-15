@@ -1,0 +1,20 @@
+{
+  "name": "book-api-project",
+  "version": "1.0.0",
+  "description": "back end software for book diribution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mon": "^0.0.8",
+    "mongoose": "^6.0.12",
+    "node": "^17.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
